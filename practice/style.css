@@ -1,0 +1,28 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+
+#heading{
+    color:pink;
+    font-size: 2em;
+ 
+}
+
+#mylabel{
+  color:brown;
+ font-size: 1em;
+}
+    
+#myText{
+    font-size: 1em;
+    color: black;
+}
+#myButton{
+    align-items: center;
+    margin-top: 30px;
+    font-size: 1em;
+    color: black;
+    background-color: pink;
+    border-radius: 5px;
+}
